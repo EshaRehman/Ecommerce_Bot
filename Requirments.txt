@@ -1,0 +1,8 @@
+selenium
+undetected_chromedriver
+setuptools
+fuzzywuzzy[speedup]
+pandas
+gspread
+oauth2client
+pyvirtualdisplay
